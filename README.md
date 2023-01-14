@@ -1,12 +1,11 @@
 ## Hello ,from the other side 👋
 
-I am ABIR, currently a Final Year Teleinformatics engenering student and Data science enthusiast :blush:
+I am ABIR, IT Enginner and Mlops enthusiast :blush:
 Art is my second passion :art: 
 
 Welcome to my github world, feel free to check it. 
 
-- 👀 I’m lookingfor an end of study internship
-- 🌱 I’m currently learning Cloud Computing 
+- 🌱 I’m currently learning Data Engenniring 
 - 📫 How to reach me benamorabir19@gmail.com
 
 <!---
