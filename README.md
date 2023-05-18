@@ -6,7 +6,6 @@ Art is my second passion :art:
 Welcome to my github world, feel free to check it. 
 
 - 🌱 I’m currently learning Data Engineering
-- 📫 How to reach me benamorabir19@gmail.com
 
 <!---
 abiart/abiart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
